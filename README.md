@@ -1,6 +1,6 @@
 ---
-title: SmolLMTextGenerator 5k
-
+### SmolLMTextGenerator 5k
+##### Training Logs:
 /usr/local/lib/python3.11/dist-packages/huggingface_hub/utils/_auth.py:94: UserWarning: 
 The secret `HF_TOKEN` does not exist in your Colab secrets.
 To authenticate with the Hugging Face Hub, create a token in your settings tab (https://huggingface.co/settings/tokens), set it as secret in your Google Colab and restart your session.
